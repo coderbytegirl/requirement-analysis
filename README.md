@@ -45,3 +45,12 @@ This project aims to sharpen skills essential for managing and delivering robust
 
 In the README.md, create two subsections under a new section titled “Types of Requirements.”
 For each subsection, define and provide examples of Functional Requirements and Non-functional Requirements for the booking management project from the case study provided here
+
+Add a section in the README.md titled “Use Case Diagrams.”
+Describe what Use Case Diagrams are and their benefits.
+Using tools like Draw.io or similar, design a use case diagram for the booking system, Listing actors and use cases.
+Export the diagram as png file alx-booking-uc.png and link the image in the README.md file
+
+In the README.md, create a section titled “Acceptance Criteria.”
+Write about the importance of Acceptance Criteria in Requirement Analysis.
+Provide an example of acceptance criteria for a feature like the Checkout feature in the booking management system.
