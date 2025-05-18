@@ -4,6 +4,15 @@ What is Requirement Analysis?
 
 Why is Requirement Analysis Important?
 
+Key Activities in Requirement Analysis.”
+Write about each of the five key activities:
+Requirement Gathering
+Requirement Elicitation
+Requirement Documentation
+Requirement Analysis and Modeling
+Requirement Validation.
+Use bullet points for clarity.
+
 About the Project
 The Requirement Analysis Project focuses on crafting a comprehensive foundation for software development by documenting, analyzing, and structuring requirements. Through a series of well-defined tasks, learners will create a detailed blueprint of the requirement analysis phase for a booking management system. This project simulates a real-world development scenario, emphasizing clarity, precision, and structure in defining requirements to set the stage for successful project execution.
 
