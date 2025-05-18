@@ -54,3 +54,6 @@ Export the diagram as png file alx-booking-uc.png and link the image in the READ
 In the README.md, create a section titled “Acceptance Criteria.”
 Write about the importance of Acceptance Criteria in Requirement Analysis.
 Provide an example of acceptance criteria for a feature like the Checkout feature in the booking management system.
+
+![alx-booking-uc](https://github.com/user-attachments/assets/7b1a02cb-c44d-4a9b-9700-7c6a2a8d7232)
+
